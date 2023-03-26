@@ -1,6 +1,6 @@
 
 import { Outlet } from 'react-router-dom';
-import ResponsiveAppBar from 'components/Navbar'
+import ResponsiveAppBar from 'features/ui/Navbar'
 import Container from '@mui/material/Container';
 
 export default function AppLayout() {

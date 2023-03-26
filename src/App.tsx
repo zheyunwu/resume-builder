@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 
 import Home from './pages/home/Home';
-import AppLayout from './layouts/AppLayout';
+import AppLayout from './features/ui/AppLayout';
 import Dashboard from './pages/dashboard/Dashboard';
 
 const router = createBrowserRouter([
